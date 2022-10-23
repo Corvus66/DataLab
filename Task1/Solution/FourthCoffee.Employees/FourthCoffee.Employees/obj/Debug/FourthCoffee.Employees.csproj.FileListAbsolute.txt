@@ -1,0 +1,14 @@
+C:\Users\ffiskandarov1\Downloads\DataLab\DataLab\Task1\Solution\FourthCoffee.Employees\FourthCoffee.Employees\bin\Debug\FourthCoffee.mdf
+C:\Users\ffiskandarov1\Downloads\DataLab\DataLab\Task1\Solution\FourthCoffee.Employees\FourthCoffee.Employees\bin\Debug\FourthCoffee_log.ldf
+C:\Users\ffiskandarov1\Downloads\DataLab\DataLab\Task1\Solution\FourthCoffee.Employees\FourthCoffee.Employees\bin\Debug\FourthCoffee.Employees.exe.config
+C:\Users\ffiskandarov1\Downloads\DataLab\DataLab\Task1\Solution\FourthCoffee.Employees\FourthCoffee.Employees\bin\Debug\FourthCoffee.Employees.exe
+C:\Users\ffiskandarov1\Downloads\DataLab\DataLab\Task1\Solution\FourthCoffee.Employees\FourthCoffee.Employees\bin\Debug\FourthCoffee.Employees.pdb
+C:\Users\ffiskandarov1\Downloads\DataLab\DataLab\Task1\Solution\FourthCoffee.Employees\FourthCoffee.Employees\bin\Debug\EntityFramework.dll
+C:\Users\ffiskandarov1\Downloads\DataLab\DataLab\Task1\Solution\FourthCoffee.Employees\FourthCoffee.Employees\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ffiskandarov1\Downloads\DataLab\DataLab\Task1\Solution\FourthCoffee.Employees\FourthCoffee.Employees\bin\Debug\EntityFramework.xml
+C:\Users\ffiskandarov1\Downloads\DataLab\DataLab\Task1\Solution\FourthCoffee.Employees\FourthCoffee.Employees\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ffiskandarov1\Downloads\DataLab\DataLab\Task1\Solution\FourthCoffee.Employees\FourthCoffee.Employees\obj\Debug\FourthCoffee.Employees.csproj.AssemblyReference.cache
+C:\Users\ffiskandarov1\Downloads\DataLab\DataLab\Task1\Solution\FourthCoffee.Employees\FourthCoffee.Employees\obj\Debug\FourthCoffee.Employees.csproj.CoreCompileInputs.cache
+C:\Users\ffiskandarov1\Downloads\DataLab\DataLab\Task1\Solution\FourthCoffee.Employees\FourthCoffee.Employees\obj\Debug\FourthCoffee.Employees.csproj.CopyComplete
+C:\Users\ffiskandarov1\Downloads\DataLab\DataLab\Task1\Solution\FourthCoffee.Employees\FourthCoffee.Employees\obj\Debug\FourthCoffee.Employees.exe
+C:\Users\ffiskandarov1\Downloads\DataLab\DataLab\Task1\Solution\FourthCoffee.Employees\FourthCoffee.Employees\obj\Debug\FourthCoffee.Employees.pdb

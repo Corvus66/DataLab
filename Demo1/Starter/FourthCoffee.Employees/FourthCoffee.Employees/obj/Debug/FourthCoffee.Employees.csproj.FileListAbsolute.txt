@@ -1,0 +1,13 @@
+C:\Users\ffiskandarov1\Downloads\DataLab\DataLab\Demo1\Starter\FourthCoffee.Employees\FourthCoffee.Employees\bin\Debug\FourthCoffee.Employees.exe.config
+C:\Users\ffiskandarov1\Downloads\DataLab\DataLab\Demo1\Starter\FourthCoffee.Employees\FourthCoffee.Employees\bin\Debug\FourthCoffee.Employees.exe
+C:\Users\ffiskandarov1\Downloads\DataLab\DataLab\Demo1\Starter\FourthCoffee.Employees\FourthCoffee.Employees\bin\Debug\FourthCoffee.Employees.pdb
+C:\Users\ffiskandarov1\Downloads\DataLab\DataLab\Demo1\Starter\FourthCoffee.Employees\FourthCoffee.Employees\bin\Debug\EntityFramework.dll
+C:\Users\ffiskandarov1\Downloads\DataLab\DataLab\Demo1\Starter\FourthCoffee.Employees\FourthCoffee.Employees\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ffiskandarov1\Downloads\DataLab\DataLab\Demo1\Starter\FourthCoffee.Employees\FourthCoffee.Employees\bin\Debug\EntityFramework.xml
+C:\Users\ffiskandarov1\Downloads\DataLab\DataLab\Demo1\Starter\FourthCoffee.Employees\FourthCoffee.Employees\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ffiskandarov1\Downloads\DataLab\DataLab\Demo1\Starter\FourthCoffee.Employees\FourthCoffee.Employees\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ffiskandarov1\Downloads\DataLab\DataLab\Demo1\Starter\FourthCoffee.Employees\FourthCoffee.Employees\obj\Debug\FourthCoffee.Employees.csproj.AssemblyReference.cache
+C:\Users\ffiskandarov1\Downloads\DataLab\DataLab\Demo1\Starter\FourthCoffee.Employees\FourthCoffee.Employees\obj\Debug\FourthCoffee.Employees.csproj.CoreCompileInputs.cache
+C:\Users\ffiskandarov1\Downloads\DataLab\DataLab\Demo1\Starter\FourthCoffee.Employees\FourthCoffee.Employees\obj\Debug\FourthCoffee.Employees.csproj.CopyComplete
+C:\Users\ffiskandarov1\Downloads\DataLab\DataLab\Demo1\Starter\FourthCoffee.Employees\FourthCoffee.Employees\obj\Debug\FourthCoffee.Employees.exe
+C:\Users\ffiskandarov1\Downloads\DataLab\DataLab\Demo1\Starter\FourthCoffee.Employees\FourthCoffee.Employees\obj\Debug\FourthCoffee.Employees.pdb
